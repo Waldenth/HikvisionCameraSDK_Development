@@ -1,0 +1,20 @@
+﻿  DownloadByTime.cpp
+  main.cpp
+F:\workspace\HikVision\Demo\Demo\src\main.cpp(19,18): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  RealPlay.cpp
+F:\workspace\HikVision\Demo\Demo\src\RealPlay.cpp(20,16): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“time_t”
+F:\workspace\HikVision\Demo\Demo\src\RealPlay.cpp(20,16): message : 请考虑在格式字符串中使用“%lld”
+F:\workspace\HikVision\Demo\Demo\src\RealPlay.cpp(20,16): message : 请考虑在格式字符串中使用“%Id”
+F:\workspace\HikVision\Demo\Demo\src\RealPlay.cpp(20,16): message : 请考虑在格式字符串中使用“%I64d”
+  RealPlayByOpenCV.cpp
+F:\workspace\HikVision\Demo\Demo\src\RealPlayByOpenCV.cpp(19,10): warning C4477: “printf”: 格式字符串“% d”需要类型“int”的参数，但可变参数 1 拥有了类型“time_t”
+F:\workspace\HikVision\Demo\Demo\src\RealPlayByOpenCV.cpp(19,10): message : 请考虑在格式字符串中使用“%lld”
+F:\workspace\HikVision\Demo\Demo\src\RealPlayByOpenCV.cpp(19,10): message : 请考虑在格式字符串中使用“%Id”
+F:\workspace\HikVision\Demo\Demo\src\RealPlayByOpenCV.cpp(19,10): message : 请考虑在格式字符串中使用“%I64d”
+  RealPlayByUser.cpp
+F:\workspace\HikVision\Demo\Demo\src\RealPlayByUser.cpp(78,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“time_t”
+F:\workspace\HikVision\Demo\Demo\src\RealPlayByUser.cpp(78,10): message : 请考虑在格式字符串中使用“%lld”
+F:\workspace\HikVision\Demo\Demo\src\RealPlayByUser.cpp(78,10): message : 请考虑在格式字符串中使用“%Id”
+F:\workspace\HikVision\Demo\Demo\src\RealPlayByUser.cpp(78,10): message : 请考虑在格式字符串中使用“%I64d”
+  正在生成代码...
+  Demo.vcxproj -> F:\workspace\HikVision\Demo\x64\Debug\Demo.exe

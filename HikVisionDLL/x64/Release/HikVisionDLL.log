@@ -1,0 +1,10 @@
+﻿  pch.cpp
+F:\workspace\HikVision\DLL\HikVisionDLL\pch.cpp(348,105): warning C4474: printf: 格式字符串中传递的参数太多
+F:\workspace\HikVision\DLL\HikVisionDLL\pch.cpp(348,105): message : 占位符和其参数预计 2 可变参数，但提供的却是 3 参数
+  dllmain.cpp
+    正在创建库 F:\workspace\HikVision\DLL\HikVisionDLL\x64\Release\HikVisionDLL.lib 和对象 F:\workspace\HikVision\DLL\HikVisionDLL\x64\Release\HikVisionDLL.exp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 15 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  HikVisionDLL.vcxproj -> F:\workspace\HikVision\DLL\HikVisionDLL\x64\Release\HikVisionDLL.dll

@@ -1,0 +1,15 @@
+[2021-03-10 13:58:29.031][INF] The COM:HCCoreBase ver is 6.1.4.15, 2020_03_05. Async:1.
+[2021-03-10 13:58:29.031][INF] The COM:Core ver is 6.1.6.3, 2020_09_25. Async:1.
+[2021-03-10 13:58:29.031][INF] This HCNetSDK ver is 6.1.6.3 Ver 2020_09_25.
+[2021-03-10 13:58:29.031][INF] Login dev 192.168.31.167:8000.
+[2021-03-10 13:58:29.031][INF] dwTotalNum[2048]
+[2021-03-10 13:58:29.047][INF] Private connect 192.168.31.167:8000 sock=864 this=0x60416264 cmd=0x10000 port=6567
+[2021-03-10 13:58:29.047][INF] LogonDev1 in[192.168.31.167:8000]
+[2021-03-10 13:58:29.047][DBG] CCoreGlobalCtrlBase::LoadDSo, HPR_LoadDSo Succ, Path[F:/workspace/HikVision/TestDLL/libeay32.dll], hHandleRet[2125398016]
+[2021-03-10 13:58:29.047][DBG] Load libeay32.dll SUCC, Real Path[F:\workspace\HikVision\TestDLL\libeay32.dll]
+[2021-03-10 13:58:29.047][DBG] CCoreGlobalCtrlBase::LoadDSo, HPR_LoadDSo Succ, Path[F:/workspace/HikVision/TestDLL/ssleay32.dll], hHandleRet[2124939264]
+[2021-03-10 13:58:29.047][DBG] Load ssleay32.dll SUCC, Real Path[F:\workspace\HikVision\TestDLL\ssleay32.dll]
+[2021-03-10 13:58:29.047][ERR] SSLTRANSAPI::IsAllAPILoaded, OpenSSL_version Unload
+[2021-03-10 13:58:29.047][ERR] OpenSSL, Not All Function Loaded!
+[2021-03-10 13:58:29.047][INF] SSLTRANSAPI::PrintVersion, SSLeay_version info [OpenSSL 1.0.2t  10 Sep 2019]
+[2021-03-10 13:58:29.047][INF] CSSLTrans::SSLCtxInit, dwSSLVersion[0], m_fnClientMethodV23

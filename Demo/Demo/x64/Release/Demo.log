@@ -1,0 +1,11 @@
+﻿  RealPlayByOpenCV.cpp
+F:\workspace\HikVision\Demo\Demo\src\RealPlayByOpenCV.cpp(21,10): warning C4477: “printf”: 格式字符串“% d”需要类型“int”的参数，但可变参数 1 拥有了类型“time_t”
+F:\workspace\HikVision\Demo\Demo\src\RealPlayByOpenCV.cpp(21,10): message : 请考虑在格式字符串中使用“%lld”
+F:\workspace\HikVision\Demo\Demo\src\RealPlayByOpenCV.cpp(21,10): message : 请考虑在格式字符串中使用“%Id”
+F:\workspace\HikVision\Demo\Demo\src\RealPlayByOpenCV.cpp(21,10): message : 请考虑在格式字符串中使用“%I64d”
+  正在生成代码
+  2 of 215 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Demo.vcxproj -> F:\workspace\HikVision\Demo\x64\Release\Demo.exe

@@ -1,0 +1,20 @@
+﻿  pch.cpp
+F:\workspace\HikVision\DLL\HikVisionDLL\pch.cpp(13,132): warning C4273: “DownloadReplayVideo”: dll 链接不一致
+F:\workspace\HikVision\DLL\HikVisionDLL\pch.h(27,16): message : 参见“DownloadReplayVideo”的前一个定义
+F:\workspace\HikVision\DLL\HikVisionDLL\pch.cpp(117,43): warning C4273: “GetTime”: dll 链接不一致
+F:\workspace\HikVision\DLL\HikVisionDLL\pch.h(26,17): message : 参见“GetTime”的前一个定义
+F:\workspace\HikVision\DLL\HikVisionDLL\pch.cpp(127,21): warning C4018: “<”: 有符号/无符号不匹配
+  dllmain.cpp
+    正在创建库 F:\workspace\HikVision\DLL\HikVisionDLL\Release\HikVisionDLL.lib 和对象 F:\workspace\HikVision\DLL\HikVisionDLL\Release\HikVisionDLL.exp
+pch.obj : error LNK2001: 无法解析的外部符号 __imp__NET_DVR_GetFileByTime_V40@12
+pch.obj : error LNK2001: 无法解析的外部符号 __imp__NET_DVR_SetReconnect@8
+pch.obj : error LNK2001: 无法解析的外部符号 __imp__NET_DVR_Login_V40@8
+pch.obj : error LNK2001: 无法解析的外部符号 __imp__NET_DVR_Logout@4
+pch.obj : error LNK2001: 无法解析的外部符号 __imp__NET_DVR_StopGetFile@4
+pch.obj : error LNK2001: 无法解析的外部符号 __imp__NET_DVR_PlayBackControl_V40@24
+pch.obj : error LNK2001: 无法解析的外部符号 __imp__NET_DVR_GetLastError@0
+pch.obj : error LNK2001: 无法解析的外部符号 __imp__NET_DVR_SetConnectTime@8
+pch.obj : error LNK2001: 无法解析的外部符号 __imp__NET_DVR_GetDownloadPos@4
+pch.obj : error LNK2001: 无法解析的外部符号 __imp__NET_DVR_Cleanup@0
+pch.obj : error LNK2001: 无法解析的外部符号 __imp__NET_DVR_Init@0
+F:\workspace\HikVision\DLL\HikVisionDLL\Release\HikVisionDLL.dll : fatal error LNK1120: 11 个无法解析的外部命令
